@@ -2,14 +2,14 @@ owner: Climate-Pros
 repo: WatchTower.Monitoring.UpTime
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Development | API | VNext
+    url: https://vnext-api.dev.watchtower2.com
+  - name: Development | API | Intelligence
+    url: https://intelligence-api.dev.watchtower2.com
+  - name: Development | API | Legacy
+    url: https://legacy-api.dev.watchtower2.com
+  - name: Development | API | Smtp Gateway
+    url: https://smtp-gateway.dev.watchtower2.com
 
 status-website:
   cname: uptime.watchtower2.com
