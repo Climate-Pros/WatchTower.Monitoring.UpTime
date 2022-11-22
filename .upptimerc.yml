@@ -2,14 +2,36 @@ owner: Climate-Pros
 repo: WatchTower.Monitoring.UpTime
 
 sites:
-  - name: Development | API | VNext
+  # Development
+  # ------------------------------------------------------
+  - name: Development >> API >> VNext
     url: https://vnext-api.dev.watchtower2.com
-  - name: Development | API | Intelligence
+  - name: Development >> API >> Intelligence
     url: https://intelligence-api.dev.watchtower2.com
-  - name: Development | API | Legacy
+  - name: Development >> API >> Legacy
     url: https://legacy-api.dev.watchtower2.com
-  - name: Development | API | Smtp Gateway
+  - name: Development >> API >> Smtp Gateway
     url: https://smtp-gateway-api.dev.watchtower2.com/
+  # Staging
+  # ------------------------------------------------------
+  - name: Staging >> API >> VNext
+    url: https://vnext-api.stg.watchtower2.com
+  - name: Staging >> API >> Intelligence
+    url: https://intelligence-api.stg.watchtower2.com
+  - name: Staging >> API >> Legacy
+    url: https://legacy-api.stg.watchtower2.com
+  - name: Staging >> API >> Smtp Gateway
+    url: https://smtp-gateway-api.stg.watchtower2.com/
+  # Production
+  # ------------------------------------------------------
+  - name: Production >> API >> VNext
+    url: https://vnext-api.prd.watchtower2.com
+  - name: Production >> API >> Intelligence
+    url: https://intelligence-api.prd.watchtower2.com
+  - name: Production >> API >> Legacy
+    url: https://legacy-api.prd.watchtower2.com
+  - name: Production >> API >> Smtp Gateway
+    url: https://smtp-gateway-api.prd.watchtower2.com/
 
 status-website:
   cname: uptime.watchtower2.com
