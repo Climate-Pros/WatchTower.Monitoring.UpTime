@@ -59,18 +59,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/smtp-gateway-api.dev.watchtower2.com.ico",
     "slug": "development-api-smtp-gateway",
     "status": "up",
-    "uptime": "20.89%",
-    "uptimeDay": "20.89%",
-    "uptimeWeek": "20.89%",
-    "uptimeMonth": "20.89%",
-    "uptimeYear": "20.89%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 663,
     "timeDay": 663,
     "timeWeek": 663,
     "timeMonth": 663,
     "timeYear": 663,
-    "dailyMinutesDown": {
-      "2022-11-22": 2
-    }
+    "dailyMinutesDown": {}
   }
 ]
