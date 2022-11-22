@@ -9,7 +9,7 @@ sites:
   - name: Development | API | Legacy
     url: https://legacy-api.dev.watchtower2.com
   - name: Development | API | Smtp Gateway
-    url: https://smtp-gateway.dev.watchtower2.com
+    url: https://smtp-gateway-api.dev.watchtower2.com/
 
 status-website:
   cname: uptime.watchtower2.com
