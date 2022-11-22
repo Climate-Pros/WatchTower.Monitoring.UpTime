@@ -76,19 +76,19 @@
     "url": "https://vnext-api.stg.watchtower2.com",
     "icon": "https://icons.duckduckgo.com/ip3/vnext-api.stg.watchtower2.com.ico",
     "slug": "staging-api-v-next",
-    "status": "down",
-    "uptime": "7.56%",
-    "uptimeDay": "7.56%",
-    "uptimeWeek": "7.56%",
-    "uptimeMonth": "7.56%",
-    "uptimeYear": "7.56%",
-    "time": 2141,
-    "timeDay": 2141,
-    "timeWeek": 2141,
-    "timeMonth": 2141,
-    "timeYear": 2141,
+    "status": "up",
+    "uptime": "1.22%",
+    "uptimeDay": "1.22%",
+    "uptimeWeek": "1.22%",
+    "uptimeMonth": "1.22%",
+    "uptimeYear": "1.22%",
+    "time": 3103,
+    "timeDay": 3103,
+    "timeWeek": 3103,
+    "timeMonth": 3103,
+    "timeYear": 3103,
     "dailyMinutesDown": {
-      "2022-11-22": 1
+      "2022-11-22": 45
     }
   },
   {
@@ -96,19 +96,19 @@
     "url": "https://intelligence-api.stg.watchtower2.com",
     "icon": "https://icons.duckduckgo.com/ip3/intelligence-api.stg.watchtower2.com.ico",
     "slug": "staging-api-intelligence",
-    "status": "down",
-    "uptime": "34.70%",
-    "uptimeDay": "34.70%",
-    "uptimeWeek": "34.70%",
-    "uptimeMonth": "34.70%",
-    "uptimeYear": "34.70%",
-    "time": 6329,
-    "timeDay": 6329,
-    "timeWeek": 6329,
-    "timeMonth": 6329,
-    "timeYear": 6329,
+    "status": "up",
+    "uptime": "1.64%",
+    "uptimeDay": "1.64%",
+    "uptimeWeek": "1.64%",
+    "uptimeMonth": "1.64%",
+    "uptimeYear": "1.64%",
+    "time": 3475,
+    "timeDay": 3475,
+    "timeWeek": 3475,
+    "timeMonth": 3475,
+    "timeYear": 3475,
     "dailyMinutesDown": {
-      "2022-11-22": 1
+      "2022-11-22": 45
     }
   },
   {
@@ -117,18 +117,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/legacy-api.stg.watchtower2.com.ico",
     "slug": "staging-api-legacy",
     "status": "down",
-    "uptime": "24.79%",
-    "uptimeDay": "24.79%",
-    "uptimeWeek": "24.79%",
-    "uptimeMonth": "24.79%",
-    "uptimeYear": "24.79%",
+    "uptime": "0.31%",
+    "uptimeDay": "0.31%",
+    "uptimeWeek": "0.31%",
+    "uptimeMonth": "0.31%",
+    "uptimeYear": "0.31%",
     "time": 2814,
     "timeDay": 2814,
     "timeWeek": 2814,
     "timeMonth": 2814,
     "timeYear": 2814,
     "dailyMinutesDown": {
-      "2022-11-22": 0
+      "2022-11-22": 45
     }
   },
   {
