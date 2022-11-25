@@ -190,19 +190,19 @@
     "url": "https://legacy-api.prd.watchtower2.com",
     "icon": "https://icons.duckduckgo.com/ip3/legacy-api.prd.watchtower2.com.ico",
     "slug": "production-api-legacy",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 10420,
-    "timeDay": 16805,
-    "timeWeek": 10420,
-    "timeMonth": 10420,
-    "timeYear": 10420,
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
+    "time": 9845,
+    "timeDay": 14607,
+    "timeWeek": 9845,
+    "timeMonth": 9845,
+    "timeYear": 9845,
     "dailyMinutesDown": {
-      "2022-11-25": 0
+      "2022-11-25": 9
     }
   },
   {
