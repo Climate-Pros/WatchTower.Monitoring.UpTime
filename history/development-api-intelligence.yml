@@ -1,7 +1,7 @@
 url: https://intelligence-api.dev.watchtower2.com
-status: down
-code: 500
-responseTime: 271
-lastUpdated: 2023-06-02T18:49:30.557Z
+status: up
+code: 200
+responseTime: 887
+lastUpdated: 2023-06-02T18:56:17.655Z
 startTime: Tue Nov 22 2022 03:50:24 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
