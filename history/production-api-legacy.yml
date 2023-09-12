@@ -1,7 +1,7 @@
 url: https://legacy-api.prd.watchtower2.com
-status: down
-code: 502
-responseTime: 7707
-lastUpdated: 2023-09-12T21:23:05.133Z
+status: up
+code: 200
+responseTime: 271
+lastUpdated: 2023-09-12T21:28:39.546Z
 startTime: 2022-11-22T04:00:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
