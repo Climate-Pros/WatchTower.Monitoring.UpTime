@@ -1,7 +1,7 @@
 url: https://vnext-api.prd.watchtower2.com
-status: down
-code: 502
-responseTime: 12878
-lastUpdated: 2023-09-12T21:22:18.274Z
+status: up
+code: 200
+responseTime: 659
+lastUpdated: 2023-09-12T21:28:33.238Z
 startTime: 2022-11-22T04:00:14.000Z
 generator: Upptime <https://github.com/upptime/upptime>
