@@ -1,7 +1,7 @@
-url: https://smtp-gateway-api.prd.watchtower2.com/
+url: https://smtp-gateway.prd.watchtower2.com/
 status: down
-code: 502
-responseTime: 400
-lastUpdated: 2023-10-04T23:02:34.865Z
+code: 0
+responseTime: 0
+lastUpdated: 2023-10-05T22:04:03.663Z
 startTime: 2022-11-22T04:00:18.000Z
 generator: Upptime <https://github.com/upptime/upptime>
