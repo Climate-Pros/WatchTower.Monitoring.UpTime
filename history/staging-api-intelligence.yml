@@ -1,7 +1,7 @@
 url: https://intelligence-api.stg.watchtower2.com
-status: down
-code: 503
-responseTime: 318
-lastUpdated: 2023-10-14T22:09:55.476Z
+status: up
+code: 200
+responseTime: 166
+lastUpdated: 2023-10-14T22:18:56.303Z
 startTime: 2022-11-22T03:59:38.000Z
 generator: Upptime <https://github.com/upptime/upptime>
