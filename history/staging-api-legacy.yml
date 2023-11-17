@@ -1,7 +1,7 @@
 url: https://legacy-api.stg.watchtower2.com
-status: up
-code: 200
-responseTime: 125
-lastUpdated: 2023-11-16T23:02:08.904Z
+status: down
+code: 503
+responseTime: 101
+lastUpdated: 2023-11-17T15:20:04.599Z
 startTime: 2022-11-22T03:59:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
