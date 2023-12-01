@@ -1,7 +1,7 @@
 url: https://legacy-api.dev.watchtower2.com
-status: down
-code: 503
-responseTime: 44
-lastUpdated: 2023-12-01T16:29:40.912Z
+status: up
+code: 200
+responseTime: 138
+lastUpdated: 2023-12-01T16:37:43.310Z
 startTime: 2022-11-22T03:50:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>
