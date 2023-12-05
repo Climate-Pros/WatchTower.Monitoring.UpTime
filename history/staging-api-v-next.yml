@@ -1,7 +1,7 @@
 url: https://vnext-api.stg.watchtower2.com
-status: down
-code: 503
-responseTime: 139
-lastUpdated: 2023-12-05T18:45:56.278Z
+status: up
+code: 200
+responseTime: 57
+lastUpdated: 2023-12-05T18:52:32.025Z
 startTime: 2022-11-22T03:59:31.000Z
 generator: Upptime <https://github.com/upptime/upptime>
