@@ -547,7 +547,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.57%",
+    "uptimeYear": "95.58%",
     "time": 915,
     "timeDay": 247,
     "timeWeek": 141,
@@ -573,8 +573,7 @@
       "2023-03-29": 1132,
       "2023-02-08": 721,
       "2022-12-22": 970,
-      "2022-12-21": 508,
-      "2022-12-05": 1073
+      "2022-12-21": 508
     }
   },
   {
@@ -583,10 +582,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/smtp-gateway.stg.watchtower2.com.ico",
     "slug": "staging-api-smtp-gateway",
     "status": "up",
-    "uptime": "46.58%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptime": "46.59%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "44.71%",
     "time": 1181,
     "timeDay": 191,
@@ -594,7 +593,6 @@
     "timeMonth": 181,
     "timeYear": 1144,
     "dailyMinutesDown": {
-      "2023-12-04": 10,
       "2023-10-05": 1324,
       "2023-10-04": 1440,
       "2023-10-03": 1440,
