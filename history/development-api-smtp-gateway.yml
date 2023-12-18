@@ -1,7 +1,7 @@
 url: https://smtp-gateway.dev.watchtower2.com/
-status: down
-code: 503
-responseTime: 170
-lastUpdated: 2023-12-18T16:57:16.239Z
+status: up
+code: 200
+responseTime: 48
+lastUpdated: 2023-12-18T17:05:31.527Z
 startTime: 2022-11-22T03:50:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
