@@ -803,19 +803,19 @@
     "url": "https://exceptionless.stg.watchtower2.com/",
     "icon": "https://icons.duckduckgo.com/ip3/exceptionless.stg.watchtower2.com.ico",
     "slug": "staging-hosted-exceptionless",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 151,
-    "timeDay": 104,
-    "timeWeek": 178,
-    "timeMonth": 146,
+    "timeDay": 85,
+    "timeWeek": 163,
+    "timeMonth": 143,
     "timeYear": 151,
     "dailyMinutesDown": {
-      "2024-02-20": 0
+      "2024-02-20": 7
     }
   },
   {
