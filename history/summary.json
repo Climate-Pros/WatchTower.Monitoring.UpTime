@@ -148,7 +148,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/smtp-gateway.dev.watchtower2.com.ico",
     "slug": "development-api-smtp-gateway",
     "status": "up",
-    "uptime": "57.31%",
+    "uptime": "57.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -381,9 +381,9 @@
     "url": "https://apprise.dev.watchtower2.com/",
     "icon": "https://icons.duckduckgo.com/ip3/apprise.dev.watchtower2.com.ico",
     "slug": "development-hosted-apprise",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -392,7 +392,9 @@
     "timeWeek": 273,
     "timeMonth": 232,
     "timeYear": 198,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-25": 0
+    }
   },
   {
     "name": "Development >> Hosted >> Exceptionless",
@@ -531,7 +533,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/smtp-gateway.stg.watchtower2.com.ico",
     "slug": "staging-api-smtp-gateway",
     "status": "up",
-    "uptime": "58.72%",
+    "uptime": "58.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -871,7 +873,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/smtp-gateway.prd.watchtower2.com.ico",
     "slug": "production-api-smtp-gateway",
     "status": "up",
-    "uptime": "64.09%",
+    "uptime": "64.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
