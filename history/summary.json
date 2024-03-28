@@ -749,19 +749,19 @@
     "url": "https://apprise.stg.watchtower2.com/",
     "icon": "https://icons.duckduckgo.com/ip3/apprise.stg.watchtower2.com.ico",
     "slug": "staging-hosted-apprise",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 215,
-    "timeDay": 160,
-    "timeWeek": 193,
-    "timeMonth": 220,
-    "timeYear": 215,
+    "time": 216,
+    "timeDay": 268,
+    "timeWeek": 216,
+    "timeMonth": 225,
+    "timeYear": 216,
     "dailyMinutesDown": {
-      "2024-03-28": 1
+      "2024-03-28": 5
     }
   },
   {
