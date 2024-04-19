@@ -127,7 +127,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "52.55%",
+    "uptimeYear": "52.56%",
     "time": 872,
     "timeDay": 306,
     "timeWeek": 286,
@@ -307,8 +307,7 @@
       "2023-04-24": 1440,
       "2023-04-23": 1440,
       "2023-04-22": 1440,
-      "2023-04-21": 1440,
-      "2023-04-20": 1440
+      "2023-04-21": 1440
     }
   },
   {
@@ -479,11 +478,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/smtp-gateway.stg.watchtower2.com.ico",
     "slug": "staging-api-smtp-gateway",
     "status": "up",
-    "uptime": "60.72%",
+    "uptime": "60.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "53.44%",
+    "uptimeYear": "53.45%",
     "time": 760,
     "timeDay": 295,
     "timeWeek": 300,
@@ -657,8 +656,7 @@
       "2023-04-24": 1440,
       "2023-04-23": 1440,
       "2023-04-22": 1440,
-      "2023-04-21": 1440,
-      "2023-04-20": 1440
+      "2023-04-21": 1440
     }
   },
   {
@@ -1002,18 +1000,16 @@
     "slug": "production-hosted-apprise",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 188,
     "timeDay": 374,
     "timeWeek": 289,
     "timeMonth": 203,
     "timeYear": 188,
-    "dailyMinutesDown": {
-      "2024-04-18": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Production >> Hosted >> Exceptionless",
