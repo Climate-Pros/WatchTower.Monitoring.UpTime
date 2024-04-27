@@ -976,19 +976,19 @@
     "url": "https://apprise.prd.watchtower2.com/",
     "icon": "https://icons.duckduckgo.com/ip3/apprise.prd.watchtower2.com.ico",
     "slug": "production-hosted-apprise",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 189,
-    "timeDay": 39,
-    "timeWeek": 215,
-    "timeMonth": 204,
-    "timeYear": 189,
+    "time": 188,
+    "timeDay": 41,
+    "timeWeek": 195,
+    "timeMonth": 200,
+    "timeYear": 188,
     "dailyMinutesDown": {
-      "2024-04-27": 1
+      "2024-04-27": 5
     }
   },
   {
