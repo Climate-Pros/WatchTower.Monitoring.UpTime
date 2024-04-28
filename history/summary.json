@@ -322,19 +322,19 @@
     "url": "https://apprise.dev.watchtower2.com/",
     "icon": "https://icons.duckduckgo.com/ip3/apprise.dev.watchtower2.com.ico",
     "slug": "development-hosted-apprise",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 201,
-    "timeDay": 312,
-    "timeWeek": 266,
-    "timeMonth": 221,
-    "timeYear": 201,
+    "time": 202,
+    "timeDay": 364,
+    "timeWeek": 281,
+    "timeMonth": 226,
+    "timeYear": 202,
     "dailyMinutesDown": {
-      "2024-04-28": 0
+      "2024-04-28": 6
     }
   },
   {
