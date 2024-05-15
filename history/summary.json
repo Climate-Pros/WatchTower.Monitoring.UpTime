@@ -315,19 +315,19 @@
     "url": "https://exceptionless.dev.watchtower2.com/v",
     "icon": "https://icons.duckduckgo.com/ip3/exceptionless.dev.watchtower2.com.ico",
     "slug": "development-hosted-exceptionless",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 171,
-    "timeDay": 251,
-    "timeWeek": 222,
-    "timeMonth": 197,
+    "timeDay": 192,
+    "timeWeek": 205,
+    "timeMonth": 193,
     "timeYear": 171,
     "dailyMinutesDown": {
-      "2024-05-15": 0
+      "2024-05-15": 6
     }
   },
   {
