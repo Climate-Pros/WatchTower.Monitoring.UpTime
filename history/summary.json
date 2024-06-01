@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.43%",
-    "time": 973,
-    "timeDay": 316,
+    "time": 972,
+    "timeDay": 77,
     "timeWeek": 145,
-    "timeMonth": 179,
+    "timeMonth": 175,
     "timeYear": 480,
     "dailyMinutesDown": {
       "2023-12-04": 57,
@@ -39,16 +39,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/intelligence-api.dev.watchtower2.com.ico",
     "slug": "development-api-intelligence",
     "status": "up",
-    "uptime": "96.77%",
+    "uptime": "96.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.20%",
-    "time": 740,
-    "timeDay": 365,
-    "timeWeek": 130,
-    "timeMonth": 171,
-    "timeYear": 559,
+    "time": 738,
+    "timeDay": 112,
+    "timeWeek": 135,
+    "timeMonth": 168,
+    "timeYear": 558,
     "dailyMinutesDown": {
       "2023-10-10": 25,
       "2023-08-29": 1335,
@@ -61,8 +61,7 @@
       "2023-06-12": 916,
       "2023-06-11": 1440,
       "2023-06-10": 1440,
-      "2023-06-09": 900,
-      "2023-06-02": 19
+      "2023-06-09": 900
     }
   },
   {
@@ -71,16 +70,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/legacy-api.dev.watchtower2.com.ico",
     "slug": "development-api-legacy",
     "status": "up",
-    "uptime": "97.59%",
+    "uptime": "97.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.47%",
     "time": 732,
-    "timeDay": 351,
-    "timeWeek": 152,
-    "timeMonth": 187,
-    "timeYear": 533,
+    "timeDay": 61,
+    "timeWeek": 141,
+    "timeMonth": 182,
+    "timeYear": 532,
     "dailyMinutesDown": {
       "2023-11-23": 64,
       "2023-10-10": 38,
@@ -92,8 +91,7 @@
       "2023-06-12": 916,
       "2023-06-11": 1440,
       "2023-06-10": 1440,
-      "2023-06-09": 926,
-      "2023-06-02": 19
+      "2023-06-09": 926
     }
   },
   {
@@ -102,16 +100,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/smtp-gateway.dev.watchtower2.com.ico",
     "slug": "development-api-smtp-gateway",
     "status": "up",
-    "uptime": "62.45%",
+    "uptime": "62.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "64.07%",
-    "time": 746,
-    "timeDay": 389,
-    "timeWeek": 129,
-    "timeMonth": 184,
-    "timeYear": 290,
+    "uptimeYear": "64.34%",
+    "time": 742,
+    "timeDay": 50,
+    "timeWeek": 130,
+    "timeMonth": 179,
+    "timeYear": 289,
     "dailyMinutesDown": {
       "2023-10-21": 112,
       "2023-10-20": 1440,
@@ -243,8 +241,7 @@
       "2023-06-06": 1440,
       "2023-06-05": 1440,
       "2023-06-04": 1440,
-      "2023-06-03": 1440,
-      "2023-06-02": 1440
+      "2023-06-03": 1440
     }
   },
   {
@@ -259,9 +256,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 212,
-    "timeDay": 390,
-    "timeWeek": 150,
-    "timeMonth": 192,
+    "timeDay": 54,
+    "timeWeek": 147,
+    "timeMonth": 187,
     "timeYear": 212,
     "dailyMinutesDown": {}
   },
@@ -276,11 +273,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 201,
-    "timeDay": 360,
-    "timeWeek": 133,
-    "timeMonth": 180,
-    "timeYear": 201,
+    "time": 200,
+    "timeDay": 77,
+    "timeWeek": 127,
+    "timeMonth": 175,
+    "timeYear": 200,
     "dailyMinutesDown": {}
   },
   {
@@ -294,11 +291,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 170,
-    "timeDay": 349,
-    "timeWeek": 126,
-    "timeMonth": 168,
-    "timeYear": 170,
+    "time": 169,
+    "timeDay": 74,
+    "timeWeek": 128,
+    "timeMonth": 164,
+    "timeYear": 169,
     "dailyMinutesDown": {}
   },
   {
@@ -307,16 +304,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/vnext-api.stg.watchtower2.com.ico",
     "slug": "staging-api-v-next",
     "status": "up",
-    "uptime": "97.08%",
+    "uptime": "97.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.08%",
     "time": 1346,
-    "timeDay": 318,
-    "timeWeek": 130,
-    "timeMonth": 165,
-    "timeYear": 720,
+    "timeDay": 140,
+    "timeWeek": 143,
+    "timeMonth": 164,
+    "timeYear": 719,
     "dailyMinutesDown": {
       "2023-12-06": 20,
       "2023-12-04": 20,
@@ -334,8 +331,7 @@
       "2023-09-30": 348,
       "2023-07-21": 499,
       "2023-07-14": 1024,
-      "2023-06-13": 115,
-      "2023-06-02": 19
+      "2023-06-13": 115
     }
   },
   {
@@ -349,10 +345,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.79%",
-    "time": 629,
-    "timeDay": 346,
-    "timeWeek": 145,
-    "timeMonth": 175,
+    "time": 628,
+    "timeDay": 96,
+    "timeWeek": 139,
+    "timeMonth": 173,
     "timeYear": 459,
     "dailyMinutesDown": {
       "2023-12-06": 20,
@@ -379,10 +375,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.62%",
-    "time": 582,
-    "timeDay": 306,
-    "timeWeek": 115,
-    "timeMonth": 147,
+    "time": 581,
+    "timeDay": 60,
+    "timeWeek": 117,
+    "timeMonth": 144,
     "timeYear": 482,
     "dailyMinutesDown": {
       "2023-12-06": 20,
@@ -409,15 +405,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/smtp-gateway.stg.watchtower2.com.ico",
     "slug": "staging-api-smtp-gateway",
     "status": "up",
-    "uptime": "63.69%",
+    "uptime": "63.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "64.96%",
-    "time": 622,
-    "timeDay": 454,
-    "timeWeek": 126,
-    "timeMonth": 171,
+    "uptimeYear": "65.23%",
+    "time": 618,
+    "timeDay": 43,
+    "timeWeek": 124,
+    "timeMonth": 166,
     "timeYear": 291,
     "dailyMinutesDown": {
       "2023-10-05": 1324,
@@ -544,8 +540,7 @@
       "2023-06-06": 1440,
       "2023-06-05": 1440,
       "2023-06-04": 1440,
-      "2023-06-03": 1440,
-      "2023-06-02": 1440
+      "2023-06-03": 1440
     }
   },
   {
@@ -559,11 +554,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 199,
-    "timeDay": 442,
-    "timeWeek": 145,
-    "timeMonth": 179,
-    "timeYear": 199,
+    "time": 198,
+    "timeDay": 82,
+    "timeWeek": 146,
+    "timeMonth": 176,
+    "timeYear": 198,
     "dailyMinutesDown": {}
   },
   {
@@ -577,11 +572,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 212,
-    "timeDay": 384,
-    "timeWeek": 153,
-    "timeMonth": 168,
-    "timeYear": 212,
+    "time": 211,
+    "timeDay": 63,
+    "timeWeek": 155,
+    "timeMonth": 165,
+    "timeYear": 211,
     "dailyMinutesDown": {}
   },
   {
@@ -596,9 +591,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 157,
-    "timeDay": 312,
-    "timeWeek": 129,
-    "timeMonth": 149,
+    "timeDay": 117,
+    "timeWeek": 133,
+    "timeMonth": 148,
     "timeYear": 157,
     "dailyMinutesDown": {}
   },
@@ -614,15 +609,14 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 419,
-    "timeDay": 346,
-    "timeWeek": 137,
-    "timeMonth": 151,
-    "timeYear": 390,
+    "timeDay": 70,
+    "timeWeek": 139,
+    "timeMonth": 148,
+    "timeYear": 389,
     "dailyMinutesDown": {
       "2023-08-23": 20,
       "2023-07-21": 150,
-      "2023-06-13": 94,
-      "2023-06-02": 19
+      "2023-06-13": 94
     }
   },
   {
@@ -636,17 +630,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 525,
-    "timeDay": 311,
+    "time": 524,
+    "timeDay": 60,
     "timeWeek": 106,
-    "timeMonth": 150,
-    "timeYear": 500,
+    "timeMonth": 147,
+    "timeYear": 499,
     "dailyMinutesDown": {
       "2023-09-12": 28,
       "2023-08-23": 66,
       "2023-07-21": 136,
-      "2023-06-13": 87,
-      "2023-06-02": 19
+      "2023-06-13": 87
     }
   },
   {
@@ -661,9 +654,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 450,
-    "timeDay": 305,
-    "timeWeek": 104,
-    "timeMonth": 143,
+    "timeDay": 111,
+    "timeWeek": 109,
+    "timeMonth": 141,
     "timeYear": 239,
     "dailyMinutesDown": {
       "2023-10-09": 40,
@@ -677,16 +670,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/smtp-gateway.prd.watchtower2.com.ico",
     "slug": "production-api-smtp-gateway",
     "status": "up",
-    "uptime": "68.42%",
+    "uptime": "68.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "63.91%",
-    "time": 626,
-    "timeDay": 369,
-    "timeWeek": 124,
-    "timeMonth": 160,
-    "timeYear": 292,
+    "uptimeYear": "64.19%",
+    "time": 622,
+    "timeDay": 128,
+    "timeWeek": 134,
+    "timeMonth": 159,
+    "timeYear": 291,
     "dailyMinutesDown": {
       "2023-10-09": 1042,
       "2023-10-08": 1440,
@@ -816,8 +809,7 @@
       "2023-06-06": 1440,
       "2023-06-05": 1440,
       "2023-06-04": 1440,
-      "2023-06-03": 1440,
-      "2023-06-02": 1440
+      "2023-06-03": 1440
     }
   },
   {
@@ -831,11 +823,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 190,
-    "timeDay": 380,
+    "time": 189,
+    "timeDay": 72,
     "timeWeek": 122,
-    "timeMonth": 175,
-    "timeYear": 190,
+    "timeMonth": 171,
+    "timeYear": 189,
     "dailyMinutesDown": {}
   },
   {
@@ -849,11 +841,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 187,
-    "timeDay": 369,
+    "time": 186,
+    "timeDay": 49,
     "timeWeek": 105,
-    "timeMonth": 168,
-    "timeYear": 187,
+    "timeMonth": 164,
+    "timeYear": 186,
     "dailyMinutesDown": {}
   },
   {
@@ -868,9 +860,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 151,
-    "timeDay": 304,
-    "timeWeek": 90,
-    "timeMonth": 140,
+    "timeDay": 33,
+    "timeWeek": 88,
+    "timeMonth": 136,
     "timeYear": 151,
     "dailyMinutesDown": {}
   }
