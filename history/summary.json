@@ -522,19 +522,19 @@
     "url": "https://exceptionless.stg.watchtower2.com/",
     "icon": "https://icons.duckduckgo.com/ip3/exceptionless.stg.watchtower2.com.ico",
     "slug": "staging-hosted-exceptionless",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 157,
-    "timeDay": 176,
-    "timeWeek": 163,
-    "timeMonth": 153,
+    "timeDay": 158,
+    "timeWeek": 158,
+    "timeMonth": 152,
     "timeYear": 157,
     "dailyMinutesDown": {
-      "2024-06-23": 1
+      "2024-06-23": 10
     }
   },
   {
@@ -611,7 +611,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "70.36%",
+    "uptimeYear": "70.37%",
     "time": 556,
     "timeDay": 56,
     "timeWeek": 191,
