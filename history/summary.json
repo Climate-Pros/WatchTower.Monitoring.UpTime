@@ -312,19 +312,19 @@
     "url": "https://smtp-gateway.prd.watchtower2.com/",
     "icon": "https://icons.duckduckgo.com/ip3/smtp-gateway.prd.watchtower2.com.ico",
     "slug": "production-api-smtp-gateway",
-    "status": "down",
+    "status": "up",
     "uptime": "77.58%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 209,
-    "timeDay": 234,
-    "timeWeek": 161,
-    "timeMonth": 193,
+    "timeDay": 281,
+    "timeWeek": 184,
+    "timeMonth": 199,
     "timeYear": 192,
     "dailyMinutesDown": {
-      "2025-01-13": 0
+      "2025-01-13": 7
     }
   },
   {
