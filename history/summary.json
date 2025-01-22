@@ -184,19 +184,19 @@
     "url": "https://smtp-gateway.stg.watchtower2.com/",
     "icon": "https://icons.duckduckgo.com/ip3/smtp-gateway.stg.watchtower2.com.ico",
     "slug": "staging-api-smtp-gateway",
-    "status": "down",
+    "status": "up",
     "uptime": "74.54%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 195,
-    "timeDay": 44,
-    "timeWeek": 187,
-    "timeMonth": 206,
+    "timeDay": 228,
+    "timeWeek": 216,
+    "timeMonth": 212,
     "timeYear": 200,
     "dailyMinutesDown": {
-      "2025-01-22": 0
+      "2025-01-22": 5
     }
   },
   {
