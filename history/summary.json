@@ -112,19 +112,19 @@
     "url": "https://exceptionless.dev.watchtower2.com/v",
     "icon": "https://icons.duckduckgo.com/ip3/exceptionless.dev.watchtower2.com.ico",
     "slug": "development-hosted-exceptionless",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 176,
-    "timeDay": 260,
-    "timeWeek": 226,
-    "timeMonth": 177,
+    "timeDay": 218,
+    "timeWeek": 216,
+    "timeMonth": 176,
     "timeYear": 182,
     "dailyMinutesDown": {
-      "2025-02-15": 0
+      "2025-02-15": 9
     }
   },
   {
@@ -242,19 +242,19 @@
     "url": "https://exceptionless.stg.watchtower2.com/",
     "icon": "https://icons.duckduckgo.com/ip3/exceptionless.stg.watchtower2.com.ico",
     "slug": "staging-hosted-exceptionless",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 162,
-    "timeDay": 294,
-    "timeWeek": 201,
-    "timeMonth": 169,
+    "timeDay": 245,
+    "timeWeek": 195,
+    "timeMonth": 168,
     "timeYear": 167,
     "dailyMinutesDown": {
-      "2025-02-15": 0
+      "2025-02-15": 9
     }
   },
   {
