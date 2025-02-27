@@ -1,7 +1,7 @@
 url: https://exceptionless.dev.watchtower2.com/v
-status: down
-code: 503
-responseTime: 242
-lastUpdated: 2025-02-27T23:46:45.918Z
+status: up
+code: 200
+responseTime: 43
+lastUpdated: 2025-02-27T23:53:15.358Z
 startTime: 2023-10-05T22:03:20.149Z
 generator: Upptime <https://github.com/upptime/upptime>
