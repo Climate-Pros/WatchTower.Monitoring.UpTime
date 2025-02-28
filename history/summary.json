@@ -222,17 +222,16 @@
     "slug": "staging-hosted-apprise",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 205,
-    "timeDay": 81,
+    "timeDay": 77,
     "timeWeek": 130,
     "timeMonth": 169,
     "timeYear": 200,
     "dailyMinutesDown": {
-      "2025-02-28": 5,
       "2024-10-05": 19
     }
   },
@@ -314,7 +313,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/smtp-gateway.prd.watchtower2.com.ico",
     "slug": "production-api-smtp-gateway",
     "status": "up",
-    "uptime": "78.84%",
+    "uptime": "78.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -349,10 +348,10 @@
     "url": "https://apprise.prd.watchtower2.com/",
     "icon": "https://icons.duckduckgo.com/ip3/apprise.prd.watchtower2.com.ico",
     "slug": "production-hosted-apprise",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 191,
@@ -360,7 +359,9 @@
     "timeWeek": 172,
     "timeMonth": 180,
     "timeYear": 195,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-28": 1
+    }
   },
   {
     "name": "Production >> Hosted >> Exceptionless",
