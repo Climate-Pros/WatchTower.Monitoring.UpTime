@@ -94,19 +94,19 @@
     "url": "https://apprise.dev.watchtower2.com/",
     "icon": "https://icons.duckduckgo.com/ip3/apprise.dev.watchtower2.com.ico",
     "slug": "development-hosted-apprise",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.48%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 208,
-    "timeDay": 359,
-    "timeWeek": 190,
-    "timeMonth": 189,
-    "timeYear": 213,
+    "time": 209,
+    "timeDay": 378,
+    "timeWeek": 212,
+    "timeMonth": 196,
+    "timeYear": 214,
     "dailyMinutesDown": {
-      "2025-03-01": 0
+      "2025-03-01": 22
     }
   },
   {
@@ -187,7 +187,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/smtp-gateway.stg.watchtower2.com.ico",
     "slug": "staging-api-smtp-gateway",
     "status": "up",
-    "uptime": "75.68%",
+    "uptime": "75.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
