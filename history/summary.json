@@ -222,18 +222,19 @@
     "url": "https://apprise.stg.watchtower2.com/",
     "icon": "https://icons.duckduckgo.com/ip3/apprise.stg.watchtower2.com.ico",
     "slug": "staging-hosted-apprise",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 206,
+    "time": 205,
     "timeDay": 153,
     "timeWeek": 205,
     "timeMonth": 171,
     "timeYear": 200,
     "dailyMinutesDown": {
+      "2025-03-04": 0,
       "2024-10-05": 19
     }
   },
@@ -352,18 +353,16 @@
     "slug": "production-hosted-apprise",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 191,
     "timeDay": 152,
     "timeWeek": 224,
     "timeMonth": 179,
     "timeYear": 195,
-    "dailyMinutesDown": {
-      "2025-03-04": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Production >> Hosted >> Exceptionless",
