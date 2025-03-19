@@ -59,7 +59,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/smtp-gateway.dev.watchtower2.com.ico",
     "slug": "development-api-smtp-gateway",
     "status": "up",
-    "uptime": "75.38%",
+    "uptime": "75.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -186,18 +186,20 @@
     "url": "https://smtp-gateway.stg.watchtower2.com/",
     "icon": "https://icons.duckduckgo.com/ip3/smtp-gateway.stg.watchtower2.com.ico",
     "slug": "staging-api-smtp-gateway",
-    "status": "up",
+    "status": "down",
     "uptime": "76.20%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 197,
-    "timeDay": 84,
-    "timeWeek": 268,
-    "timeMonth": 205,
-    "timeYear": 201,
-    "dailyMinutesDown": {}
+    "time": 200,
+    "timeDay": 674,
+    "timeWeek": 367,
+    "timeMonth": 239,
+    "timeYear": 204,
+    "dailyMinutesDown": {
+      "2025-03-19": 1
+    }
   },
   {
     "name": "Staging >> Hosted >> Health Checks",
