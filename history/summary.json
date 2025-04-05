@@ -59,7 +59,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/smtp-gateway.dev.watchtower2.com.ico",
     "slug": "development-api-smtp-gateway",
     "status": "up",
-    "uptime": "75.87%",
+    "uptime": "75.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -114,18 +114,20 @@
     "url": "https://exceptionless.dev.watchtower2.com/v",
     "icon": "https://icons.duckduckgo.com/ip3/exceptionless.dev.watchtower2.com.ico",
     "slug": "development-hosted-exceptionless",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 177,
-    "timeDay": 276,
-    "timeWeek": 198,
-    "timeMonth": 184,
+    "timeDay": 197,
+    "timeWeek": 188,
+    "timeMonth": 182,
     "timeYear": 181,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-05": 0
+    }
   },
   {
     "name": "Staging >> API >> VNext",
@@ -242,18 +244,20 @@
     "url": "https://exceptionless.stg.watchtower2.com/",
     "icon": "https://icons.duckduckgo.com/ip3/exceptionless.stg.watchtower2.com.ico",
     "slug": "staging-hosted-exceptionless",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 164,
-    "timeDay": 254,
-    "timeWeek": 182,
-    "timeMonth": 178,
-    "timeYear": 169,
-    "dailyMinutesDown": {}
+    "timeDay": 263,
+    "timeWeek": 194,
+    "timeMonth": 181,
+    "timeYear": 170,
+    "dailyMinutesDown": {
+      "2025-04-05": 0
+    }
   },
   {
     "name": "Production >> API >> VNext",
@@ -315,7 +319,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/smtp-gateway.prd.watchtower2.com.ico",
     "slug": "production-api-smtp-gateway",
     "status": "up",
-    "uptime": "79.70%",
+    "uptime": "79.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
