@@ -59,7 +59,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/smtp-gateway.dev.watchtower2.com.ico",
     "slug": "development-api-smtp-gateway",
     "status": "up",
-    "uptime": "76.72%",
+    "uptime": "76.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -116,18 +116,16 @@
     "slug": "development-hosted-exceptionless",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 181,
     "timeDay": 217,
     "timeWeek": 179,
     "timeMonth": 193,
     "timeYear": 182,
-    "dailyMinutesDown": {
-      "2025-05-06": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Staging >> API >> VNext",
@@ -189,7 +187,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/smtp-gateway.stg.watchtower2.com.ico",
     "slug": "staging-api-smtp-gateway",
     "status": "up",
-    "uptime": "77.49%",
+    "uptime": "77.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -224,9 +222,9 @@
     "url": "https://apprise.stg.watchtower2.com/",
     "icon": "https://icons.duckduckgo.com/ip3/apprise.stg.watchtower2.com.ico",
     "slug": "staging-hosted-apprise",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -236,6 +234,7 @@
     "timeMonth": 187,
     "timeYear": 197,
     "dailyMinutesDown": {
+      "2025-05-06": 0,
       "2024-10-05": 19
     }
   },
@@ -317,7 +316,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/smtp-gateway.prd.watchtower2.com.ico",
     "slug": "production-api-smtp-gateway",
     "status": "up",
-    "uptime": "80.42%",
+    "uptime": "80.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
